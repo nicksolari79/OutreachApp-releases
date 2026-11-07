@@ -14,7 +14,6 @@ Download **one** file, for your computer:
 | **Mac** (Apple Silicon: M1 or newer) | `Outreach-Manager-x.x.x.dmg` |
 | **Linux** | `Outreach-Manager-x.x.x.AppImage` |
 
-You don't need any of the other files. The `.yml` and `.blockmap` files are used by the app to check for updates, and the "Source code" links are added by GitHub automatically. They only contain this page, not the app.
 
 ## Installing
 
